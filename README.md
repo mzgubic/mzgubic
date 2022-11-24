@@ -1,4 +1,4 @@
-Hello there 👋
+## Hello there 👋
 
 My name is Miha, I am a physicist turned research software engineer. Feel encouraged to reach out in arbitrary digital ways. Some things we could talk about are:
 - the Julia language
