@@ -1,0 +1,8 @@
+repo
+https://github.com/JuliaDiff/ChainRulesCore.jl/
+https://github.com/JuliaDiff/ChainRules.jl/
+https://github.com/JuliaDiff/ChainRulesTestUtils.jl/
+https://github.com/JuliaDiff/FiniteDifferences.jl
+https://github.com/FluxML/Zygote.jl/
+https://github.com/invenia/NamedDims.jl
+https://github.com/invenia/BlockDiagonals.jl
